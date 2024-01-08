@@ -1,0 +1,16 @@
+{
+  "id": "mig_cm8rktjbg06p0tdtgrag",
+  "parentID": "mig_cm8rkd3bg06p0tdtgr9g",
+  "checksum": "1:b2e86262880d292ea97d4350bbb9d888d28603bcaf9d030596f8967c9a781f0d",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "walled_id",
+          "type": "string"
+        },
+        "table": "users"
+      }
+    }
+  ]
+}

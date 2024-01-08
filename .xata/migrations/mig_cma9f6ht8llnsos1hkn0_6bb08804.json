@@ -1,0 +1,17 @@
+{
+  "id": "mig_cma9f6ht8llnsos1hkn0",
+  "parentID": "mig_cma9f2ht8llnsos1hkm0",
+  "checksum": "1:6bb0880431913a8c195f057bc3ae5537e34b8aa6cfd5e0085168cfe91b5df12f",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "is_saved",
+          "type": "bool",
+          "defaultValue": "false"
+        },
+        "table": "payments"
+      }
+    }
+  ]
+}

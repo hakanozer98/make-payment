@@ -1,0 +1,16 @@
+{
+  "id": "mig_cma9f2ht8llnsos1hkm0",
+  "parentID": "mig_cma9eupt8llnsos1hkl0",
+  "checksum": "1:5d09e3d555178350ef2c9f1466ec6f52d926e65fcd60db316ed0b5a4357e59f8",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "date",
+          "type": "datetime"
+        },
+        "table": "payments"
+      }
+    }
+  ]
+}

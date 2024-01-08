@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://Hakan-zer-s-workspace-c6bocj.us-east-1.xata.sh/db/make-payment-db",
+  "codegen": {
+    "output": "src/xata.ts"
+  }
+}
